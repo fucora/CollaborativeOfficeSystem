@@ -39,7 +39,21 @@
 
 
 
-# 三、主要实现功能：
+# 三、运行部分截图：
+
+## 员工：
+
+<img src="https://github.com/1170159634/CollaborativeOfficeSystem/blob/master/images/6.png"  />
+
+<img src="https://github.com/1170159634/CollaborativeOfficeSystem/blob/master/images/7.png"  />
+
+## 管理员：
+
+<img src="https://github.com/1170159634/CollaborativeOfficeSystem/blob/master/images/8.png"  />
+
+<img src="https://github.com/1170159634/CollaborativeOfficeSystem/blob/master/images/9.png"  /><img src="https://github.com/1170159634/CollaborativeOfficeSystem/blob/master/images/10.png"  />
+
+# 四、主要实现功能：
 
 
 
